@@ -1,5 +1,5 @@
 # Employee-Churn-Model
-In this project, we are trying to identify the potential employees who might leave the company on the basis of  various attributes such as their satisfaction level, time spent in the company, number of projects completed, their department and salary level etc.
+In this project, we are trying to identify the potential employees who might leave the company on the basis of  various attributes such as their satisfaction level, time spent in the company, number of projects completed, their department and salary level etc. By analysing the given information, we will create an employee churn model through which we can predict if any employee is going to leave the company any time sooner or not. The predictions are purely based on previous records.
 
 ## Data Dictionary: The various attriutes of the dataset are descibed below:
 
